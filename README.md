@@ -335,6 +335,7 @@ described in [RFC 8032]
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [mxnet.cr](https://github.com/toddsundsted/mxnet.cr) - Bindings for [MXNet](https://mxnet.incubator.apache.org/)
  * [shainet](https://github.com/NeuraLegion/shainet) - SHAInet (Neural Network in pure crystal)
+ * [tensorflow_lite](https://github.com/spider-gazelle/tensorflow_lite) - bindings for running [TF Lite models](https://tfhub.dev/s?deployment-format=lite)
 
 ## Markdown/Text Processors
  * [markd](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
